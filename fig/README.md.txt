@@ -1,1 +1,0 @@
-Les figures générées seront sauvegardées ici.
